@@ -3,6 +3,7 @@
 Cet atelier est tiré de l'atelier créé par Alistair Cockburn (disponible [ici](https://alistair.cockburn.us/wp-content/uploads/2018/02/Elephant-Carpaccio-exercise-instructions.pdf)).
 
 Cet atelier s'est fait en distanciel et tout le contenu de cette note part du principe que l'atelier se fait dans cette configuration.
+En distanciel, prévoir 2 bonnes heures pour le mener à terme (toutes les itérations avec la restitution, dans l'exemple ci-dessous, il m'a fallu 1H40)
 
 Pour la mise en oeuvre en distanciel:
 - via Teams | zoom | discord | meet…
