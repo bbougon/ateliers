@@ -1,6 +1,7 @@
 # 12/01/2021
 
-Cet atelier est tiré de l'atelier créé par Alistair Cockburn (disponible [ici](https://alistair.cockburn.us/wp-content/uploads/2018/02/Elephant-Carpaccio-exercise-instructions.pdf) )
+Cet atelier est tiré de l'atelier créé par Alistair Cockburn (disponible [ici](https://alistair.cockburn.us/wp-content/uploads/2018/02/Elephant-Carpaccio-exercise-instructions.pdf)).
+
 Cet atelier s'est fait en distanciel et tout le contenu de cette note part du principe que l'atelier se fait dans cette configuration.
 
 Pour la mise en oeuvre en distanciel:
