@@ -24,7 +24,7 @@ Dans le cadre de l'équipe à qui j'ai proposé l'atelier, le but n'était pas d
 ## Déroulement
 Le déroulement s'est fait en suivant cette [trame](https://www.occitech.fr/blog/2014/05/decoupez-vos-stories-en-carpaccio/) et avec cet [énoncé](https://www.occitech.fr/wp-content/uploads/2014/05/Carpaccio-FR.pdf)
 
-### Pourquoi découpe-t-on les histoires?
+### Pourquoi découpe-t-on les histoires?
 - rappeler qu'une histoire est testable, démontrable et apporte de la valeur pour l'utilisateur
 - demander aux participants de discuter entre eux de l'intérêt de faire un découpage:
   - Les réponses lors de l'atelier:
@@ -131,7 +131,7 @@ Durant vos passages dans les salons:
     - une autre personne démontre => OK
     - c'est la même personne qui démontre => observez
 
-### Restitution
+### Restitution
 - Où en est-on dans l'élaboration du produit (où se situe-t-on sur la courbe de valeur)
 - Est-ce que j'ai un MVP?
 - Testez l'application
